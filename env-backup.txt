@@ -1,0 +1,30 @@
+# Telegram Bot Token (Get from @BotFather)
+8688795400:AAEusyQfPgnPgZDrwMlb9LUnyhpnl-QRZPA
+
+# Owner Settings
+OWNER_NUMBER=923177104809
+OWNER_TELEGRAM_ID=7848300179
+
+# OpenRouter API Key(s) for AI features (.ai command)
+# You can add MULTIPLE keys separated by commas - if the first key fails
+# (invalid, out of credits, rate-limited) the bot automatically tries the next one.
+# Get free/paid keys from: https://openrouter.ai/keys
+OPENROUTER_API_KEYS=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,your_openrouter_key_2,your_openrouter_key_3
+OPENROUTER_MODEL=openai/gpt-4o-mini
+OPENROUTER_BASE_URL=https://openrouter.ai/api/v1
+OPENROUTER_SITE_URL=https://github.com
+OPENROUTER_SITE_NAME=Rajpoot Bot
+
+# (Legacy - kept only for backward compatibility, not used by default anymore)
+OPENAI_API_KEY=your_openai_api_key_here
+AI_BASE_URL=https://api.openai.com/v1
+AI_MODEL=gpt-3.5-turbo
+
+# Admin Dashboard Password
+ADMIN_PASSWORD=shadowadmin123
+
+# Cricket Score API Key (Get free key from cricapi.com)
+CRICKET_API_KEY=your_cricapi_key_here
+
+# Port for web dashboard
+PORT=20236
